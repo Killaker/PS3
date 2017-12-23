@@ -1,0 +1,53 @@
+-----------------------------------------------------------------------------
+ISO BUILDING - PS3Gen 2.50
+-----------------------------------------------------------------------------
+
+- Open ps3gen.exe patched for the SFO region (BLES, BLUS etc..)
+
+- Chose Disk Type upon the game size.
+
+- Compile Title ID to match SFO file: eg. BLES 12345
+
+- Compile Disc Version (Read it from SFO, it's last value. eg. 01.04)
+
+- Compile Copyright + Producer (could be anything).
+
+- Click on "Setup Game..."
+
+- File -> Import System File -> Browse to .sfo
+
+- Switch to TAB "Content Information Files", Drag and Drop:
+  ICONs, PICs, SND (all files in PS3_GAME but PS3LOGO.DAT & PARAM.SFO)
+
+- Click on "OK"
+
+- To add Trophy files click on "Trophy" checkmark in Disc Content panel
+  Switch to TAB "Directory", click on PS3_GAME then on TROPDIR
+  Drag and drop all files/dirs from Image TROPDIRto ps3gen
+
+- Switch to TAB "Directory", click on PS3_GAME then on USRDIR
+  Drag and drop all files/dirs from Image USRDIR to ps3gen
+
+- Check 'UPDATE PKG INSTALLATION' to install patches directly on BD or EMU,
+  so it will be launched directly before of the game if needed.
+
+- Click on "Build" or "Burn".
+
+-----------------------------------------------------------------------------
+UPDATE PKG INSTALLATION
+-----------------------------------------------------------------------------
+
+- Click on "Patches for Disc Boot Game" checkmark in Disc Content panel
+
+- Click on "Setup Patch Param"
+
+- Modify "Application Version" with the version of the patch you're installing
+  (eg. 1.03)
+
+- Click on "OK" to return back to Disc Content Panel
+
+- Click on "Setup Patch Files"
+
+- Drag and Drop the patch(es) you need.
+
+- Click on "OK" to return back to Disc Content Panel.

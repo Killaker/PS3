@@ -1,0 +1,18 @@
+Chales.Web.Debugging.Proxy.v3.11.Final.Cracked.by.yoza[RET]
+===========================================================
+
+Software name : Chales.Web.Debugging.Proxy
+Version	      : 3.11.Final
+Release Date  : 4 October 2015 - 10:11 AM
+OS            : WinAll
+Developers    : XK72 Ltd.
+Web-site      : http://www.charlesproxy.com/
+
+Instrução :
+=============
+1) Extrair arquivo rar.
+2) Execute o arquivo de configuração: charles-proxy-3.11-win32.msi ou charles-proxy-3.11-win64.msi
+3) Substituir arquivo "charles.jar" na pasta lib de isntalled apps.with minha versão rachada.
+   (por exemplo C: \ Arquivos de Programas \ Charles \ lib)
+4) Execute o aplicativo.
+Apreciar!

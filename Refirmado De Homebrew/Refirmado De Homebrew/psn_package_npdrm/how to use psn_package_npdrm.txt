@@ -1,0 +1,3 @@
+1. run it via cmd (shift+right click ->open cmd window) 
+2. copy and paste "psn_package_npdrm.exe package.conf BLND00001" where BLES01467 is the id of your game
+3. hit enter 

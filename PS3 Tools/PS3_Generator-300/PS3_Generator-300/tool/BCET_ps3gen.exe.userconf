@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<userconf>
+  <log>
+    <init_path dir="" fname="log.txt" />
+    <fmt print_ts="true" />
+  </log>
+  <common>
+    <init_path dir="Z:\PS3\BLU-RAY\KillZone3" />
+    <save use_relpath="false" />
+  </common>
+</userconf>
